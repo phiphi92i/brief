@@ -4,6 +4,15 @@ Hi I'm Phil and i decided to make my first social app brief open-source to let t
 
 A modern iOS social app that lets you share authentic moments with close friends through dual camera captures, voice notes, and written posts. Built with SwiftUI and Firebase.
 
+
+![image](https://github.com/user-attachments/assets/3a60116b-2293-4c43-8053-d143818bb9cc)   ![image](https://github.com/user-attachments/assets/0888960f-8317-4996-b3fc-7eaf365c7b49)
+
+![image](https://github.com/user-attachments/assets/690265e9-34fb-4ddb-b001-972a141c1410) ![image](https://github.com/user-attachments/assets/42152e0a-428d-4e48-be9f-99ef138acf73)
+
+![image](https://github.com/user-attachments/assets/02929d81-b9d2-4589-9846-d1b6081443cf)
+
+
+
 ## Core Features
 
 - 📸 Dual Camera System like BeReal
@@ -61,3 +70,6 @@ A modern iOS social app that lets you share authentic moments with close friends
 ## Installation
 
 1. Clone the repository
+
+
+
