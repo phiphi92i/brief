@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  brief.brief
+//  brief
 //
-//  Created by Philippe Tchinda on 24/04/2023.
+//  Created by Philippe Tchinda on 27/04/2024.
 //
 
 import SwiftUI
@@ -12,15 +12,13 @@ struct ContentView: View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
-                .foregroundColor(.accentColor)
+                .foregroundStyle(.tint)
             Text("Hello, world!")
         }
         .padding()
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
+#Preview {
+    ContentView()
 }

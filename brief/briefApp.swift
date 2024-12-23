@@ -1,14 +1,14 @@
 //
-//  brief_briefApp.swift
-//  brief.brief
+//  briefApp.swift
+//  brief
 //
-//  Created by Philippe Tchinda on 24/04/2023.
+//  Created by Philippe Tchinda on 27/04/2024.
 //
 
 import SwiftUI
 
 @main
-struct brief_briefApp: App {
+struct briefApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
