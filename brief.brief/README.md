@@ -1,44 +1,61 @@
-# brief - Authentic Social Sharing App
+# brief - Private Social Sharing App
 
-A BeReal-inspired iOS social networking application that encourages authentic moment sharing with friends. Built with SwiftUI and Firebase.
+A modern iOS social app that lets you share authentic moments with close friends through dual camera captures, voice notes, and written posts. Built with SwiftUI and Firebase.
 
-## Features
+## Core Features
 
-- 📸 Dual Camera Capture
-  - Simultaneous front and back camera photos
-  - Quick capture interface
+- 📸 Dual Camera System
+  - Simultaneous front and back camera capture
+  - QR code scanning for friend connections
   - Gallery integration
+  - Custom camera interface using AVFoundation
 
-- 🗣️ Rich Interactions
-  - Voice note comments
-  - Written posts
-  - Threaded comments
+- 🤝 Friend Circles
+  - Create and manage private distribution circles
+  - QR code-based friend invitations
+  - Contact list integration
   - Activity feed for friend updates
 
-- 📅 Memories Calendar
-  - Monthly calendar view of posts
-  - Personal digital memoir
-  - Organized photo history
+- 💬 Rich Communication
+  - Voice note comments
+  - Written posts (up to 350 characters)
+  - Photo comments
+  - Real-time notifications
+  - Threaded conversations
 
-- 👥 Social Features
-  - Friend connections
-  - Broadcasting lists for privacy control
-  - Real-time activity updates
-  - Friend discovery
+- 📅 Memory Calendar
+  - Monthly view of shared moments
+  - Personal digital diary
+  - Organized post history
+  - Date-based memory browsing
 
-- 💾 Data Management
-  - Firebase authentication
-  - Cloud storage for photos and audio
-  - Real-time updates
-  - Offline support
+- 📱 Social Features
+  - Instagram Stories sharing integration
+  - Location sharing
+  - Friend activity tracking
+  - Post expiration system
+
+## Technical Stack
+
+- SwiftUI and UIKit integration
+- Firebase Backend
+  - Authentication
+  - Firestore Database
+  - Cloud Storage
+  - Analytics
+- AVFoundation for camera and audio
+- MapKit for location services
+- SDWebImage for image loading
+- Algolia for search functionality
 
 ## Requirements
 
 - iOS 14.0+
 - Xcode 13.0+
 - Swift 5.5+
-- Firebase account
 - CocoaPods
+- Firebase account
+- Algolia account (for search features)
 
 ## Installation
 
