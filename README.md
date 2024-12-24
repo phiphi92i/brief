@@ -1,6 +1,6 @@
 # brief - Private Social Sharing App inspired by BeReal
 
-Hi I'm Phil and i decided to make my first social app brief open-source to let the community benefit from it, there maybe some little bugls with the camera and it's been a while i haven't touched the code so, hope you'll enjoy and benefit from it ! 
+Hi I'm Phil and i decided to make my first social app brief open-source to let the community benefit from it, there maybe some little bugls with the camera and it's been a while i haven't touched the code so, hope you'll enjoy and benefit from it ! That app was inspired by BeReal and was so for me an improvement of it 
 
 A modern iOS social app that lets you share authentic moments with close friends through dual camera captures, voice notes, and written posts. Built with SwiftUI and Firebase.
 
